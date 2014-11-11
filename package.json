@@ -1,5 +1,5 @@
 {
-    "name": "locator-yui",
+    "name": "zlocator-yui",
     "description": "Locator plugin for generating YUI Loader metadata for YUI modules",
     "version": "0.1.2",
     "homepage": "https://github.com/yahoo/locator-yui",
