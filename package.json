@@ -14,7 +14,7 @@
     },
     "dependencies": {
         "mkdirp": "*",
-        "shifter": "*",
+        "shifter": "https://github.com/zillow/shifter/tarball/master",
         "debug": "*"
     },
     "devDependencies": {
